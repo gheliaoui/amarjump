@@ -1,2 +1,4 @@
 # amarjump
-for_now_one
+New_Translation_Mode; 2018-06-12;
+
+
